@@ -5,7 +5,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/main/avatar.jpg" width="160" height="160" alt="Apple" style="border-radius:50%; border: 3px solid #00d4ff;" />
+  <img src="https://github.com/Kim3424/Kim3424/raw/main/avatar.jpg" width="160" height="160" alt="Apple" style="border-radius:50%; border: 3px solid #00d4ff;" />
 </div>
 
 # Hi there, I'm Apple 👋
