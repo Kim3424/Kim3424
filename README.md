@@ -1,87 +1,40 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=550&lines=Hello!+%F0%9F%91%8B;I'm+Apple+%F0%9F%8C%B1;AI%2FML+Student+%7C+Healthcare+%26+Business+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=720&lines=Hello!+%F0%9F%91%8B;I'm+Apple+%F0%9F%8C%B1;AI%2FML+Student+%7C+Healthcare+%26+Business+Innovator" alt="Typing SVG" />
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-  <!-- Replace with your actual avatar link (preferably circular, transparent background) -->
-  <img src="https://github.com/Kim3424/Kim3424/raw/main/avatar.jpg" width="180" height="180" alt="Apple" style="border-radius:50%; border: 4px solid #00d4ff; box-shadow: 0 0 20px rgba(0,212,255,0.4);" />
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/main/avatar.jpg" width="160" height="160" alt="Apple" style="border-radius:50%; border: 3px solid #00d4ff;" />
 </div>
 
-<h2 align="center">About Me</h2>
+# Hi there, I'm Apple 👋
 
-<p align="center">
-  <i>Computer Science student passionate about AI/ML</i><br><br>
-  I'm currently focusing on learning and building practical AI solutions to apply in <strong>healthcare</strong> (diagnostic support, medical image analysis, disease prediction…) and <strong>business</strong> (process optimization, data analytics, intelligent systems).<br><br>
-  My biggest goal: Create real-world AI products that bring meaningful value to communities and society in Vietnam.
-</p>
+### 💫 About Me
+I'm a Computer Science student passionate about **AI/ML**, with a strong focus on building **practical solutions** for **healthcare** and **business**.
 
-<hr>
+I love turning ideas into real products that make a difference — from diagnostic tools to smart business analytics.
 
-<h2 align="center">My Coding Journey</h2>
+- 🎂 **Born:** 2004
+- 🚀 **Learning Style:** Project-driven (learn by building and experimenting)
+- 🎯 **Goal:** Develop AI systems that support **healthcare accessibility** and **business efficiency** in Vietnam
 
-<div align="center">
-  <p>My programming journey started early and evolved through different stages of learning:</p>
+*"AI becomes truly powerful when it improves lives and drives meaningful progress."*
 
-  <ul style="list-style: none; padding: 0; display: inline-block; text-align: left; font-size: 1.1em; line-height: 1.8;">
-    <li>🖥️ <strong>Middle School (Grade 6–9)</strong> → Started with <strong>Pascal</strong><br>
-        First lines of code on Dev-Pascal — basic algorithms, competitive programming problems, and school olympiads. It felt like solving puzzles!</li>
+---
 
-    <li>🌐 <strong>High School</strong> → Discovered <strong>HTML/CSS</strong> thanks to an international friend<br>
-        A foreign friend shared how to build simple websites. I created my first personal page — retro style, bright colors, Comic Sans font... Seeing it live in the browser was the moment I fell in love with web development!</li>
+### 🛠️ Tech Stack
 
-    <li>🎓 <strong>University</strong> → Deep dive into IT<br>
-        Studied core subjects: C/C++, Java, databases, algorithms, software engineering... Started working on group projects, internships, and understanding larger systems.</li>
+| Category          | Tools & Languages                          | Badges |
+|-------------------|--------------------------------------------|--------|
+| **Languages**     | Python, JavaScript, Java, HTML/CSS, SQL    | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **AI/ML**         | TensorFlow, PyTorch, Scikit-learn          | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
+| **Tools**         | Google Colab, VS Code, Dev-C++, Jupyter    | ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) |
+| **Frontend Basics** | HTML, CSS, JavaScript (exploring React)  | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
 
-    <li>🔥 <strong>Now</strong> → Focused on <strong>AI/ML</strong> and <strong>Web Development</strong><br>
-        Deepening knowledge in Machine Learning, Deep Learning (with applications in healthcare & business), while building web apps to deploy AI models in real life. Goal: Bridge AI with practical, impactful solutions.</li>
-  </ul>
-</div>
+---
 
-<hr>
-
-<h2 align="center">🛠️ Tools & Skills</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><strong>Field</strong></td>
-      <td align="center"><strong>Main Tools</strong></td>
-    </tr>
-    <tr>
-      <td>Python & AI/ML</td>
-      <td><strong>Google Colab</strong> (primary), Hugging Face, VS Code</td>
-    </tr>
-    <tr>
-      <td>Web Development</td>
-      <td><strong>VS Code</strong> — HTML, CSS, JavaScript (planning to learn React/Next.js soon)</td>
-    </tr>
-    <tr>
-      <td>Java</td>
-      <td><strong>VS Code</strong> + extensions (or IntelliJ when needed)</td>
-    </tr>
-    <tr>
-      <td>Database</td>
-      <td><strong>SQL</strong> (MySQL/PostgreSQL) — using VS Code or DBeaver</td>
-    </tr>
-    <tr>
-      <td>C/C++ Basics</td>
-      <td><strong>Dev-C++</strong> (for school assignments & algorithms)</td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,colab,html,css,js,java,git,vscode,mysql,postgres,sqlite" alt="skills" />
-  <!-- Customize more icons at: https://skillicons.dev -->
-</div>
-
-<hr>
-
-<h2 align="center">📊 GitHub Stats</h2>
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kim3424&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
@@ -92,25 +45,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim3424&layout=compact&theme=radical&hide_border=true&langs_count=8" width="60%" />
 </div>
 
-<hr>
+---
 
-<h2 align="center">📫 Let's Connect</h2>
+### 📫 Connect with Me
 
-<div align="center">
-  <a href="mailto:kimnganvo3004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="[https://www.facebook.com/YOUR_FACEBOOK_USERNAME](https://web.facebook.com/kimngan.vo.967806/)">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</div>
+<p align="center">
+  <a href="mailto:kimnganvo3004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://web.facebook.com/kimngan.vo.967806/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <!-- Nếu có Telegram hoặc khác thì thêm tương tự: <a href="..."><img src="..." /></a> -->
+</p>
 
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
-<div align="center">
-  <i>Thanks for stopping by! ⭐ Feel free to star any repo you like 🌟</i>
-</div>
+Feel free to explore my repositories — any star or feedback is super appreciated! 🌟
