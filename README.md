@@ -37,12 +37,13 @@ I love turning ideas into real products that make a difference — from diagnost
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-tau-seven.vercel.app/api?username=Kim3424&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Kim3424&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kim3424&theme=radical" width="48%" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kim3424&theme=radical" width="48%" alt="Stats Card" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-tau-seven.vercel.app/api/top-langs/?username=Kim3424&layout=compact&theme=radical&hide_border=true&langs_count=8" width="60%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kim3424&theme=radical" width="48%" alt="Most Committed Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kim3424&theme=radical" width="48%" alt="Productive Time" />
 </div>
 
 ---
